@@ -1,2 +1,2 @@
 # web-yoga-max
-Création site web de yoga pour Max
+Une jolie page d'attente de création responsive pour le site web de Max
